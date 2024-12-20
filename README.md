@@ -1,6 +1,24 @@
 # VC-No-Code-Tools
 
+A suite of No Code projects to streamline tasks for Venture Capital analysts. The goal is leverage No Code tools to accelerate workflows and boost analyst efficiency.
+
 # Projects
+
+**- YC Co-Pilot**
+
+**- Pitch Deck No Code**
+
+**- No-Code Investment Insights**
+
+**- VC CRM (Airtable+Softr)**
+
+## YC Co-Pilot
+
+Y Combinator Co-Pilot is an assistant designed to guide entrepreneurs in taking their projects from 0 to 1. Leveraging Y Combinator’s resources and expertise, this tool helps users develop essential entrepreneurial skills.
+
+- **Spanish Demo:**
+
+https://www.loom.com/share/421fae3284c347c19c821c54a488de9b?sid=76832a33-4bd8-43b3-90cb-16834620fd81
 
 ## Pitch Deck No Code
 
