@@ -19,3 +19,10 @@ Evaluating startups with limited information is a common challenge in venture ca
 
 https://www.loom.com/share/5b96c4b4f1014462868c0708ecdcc1e7?sid=c0a94cc8-bbd0-4c94-8c0d-86c7858b00f5
 
+## VC CRM (Airtable+Softr)
+
+Finding relevant information in a database can be challenging without a technical background. VC CRM addresses this issue by offering an automated solution that extracts key data from LinkedIn about founders and their companies, seamlessly integrating it into a CRM built on Airtable. This automation allows users to manage and visualize crucial information effortlessly, enhancing their experience through an intuitive interface powered by Soft.
+
+- **Spanish Demo:**
+
+https://www.loom.com/share/62926d53e88845de832806f5df5f1565?sid=251063c2-7482-43d0-bfa9-a65f2bf57daa
